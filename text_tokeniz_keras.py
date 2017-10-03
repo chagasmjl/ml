@@ -1,6 +1,7 @@
 #-------------------------------------------------------------
 # Examples of using keras API to process text data.
 # Author: Mario jorge lopes chagas 2017
+# Original post from https://machinelearningmastery.com/prepare-text-data-deep-learning-keras/
 #--------------------------------------------------------------
 from keras.preprocessing.text import text_to_word_sequence, one_hot, hashing_trick, Tokenizer
 
