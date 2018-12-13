@@ -1,4 +1,4 @@
-These are exemples of codes using Machine learning tecniques just for learning porpouse.
+These are examples of codes using Machine learning techniques just for learning purpose
 
 - <b>iris.py</b> - Examples of linear regression of iris dataset and plotting the results...
 
