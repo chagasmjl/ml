@@ -1,9 +1,1 @@
-These are examples of codes using Machine learning techniques just for learning purpose
 
-- <b>iris.py</b> - Examples of linear regression of iris dataset and plotting the results...
-
-- <b>test.py</b> - Test your python enviroment for run these examples....
-
-- <b>text_tokeniz_keras.py</b> - Examples of using keras for text process...
-
-Author: Mario Jorge lopes chagas de almeida
